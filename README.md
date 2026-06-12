@@ -26,3 +26,12 @@ No build command is required.
 
 - Desktop price calculator is docked beside the menu and no longer overlaps it.
 - Zoom range is limited to 50%-100% in 10% increments.
+
+
+## Version 117
+
+- Each menu tab is displayed as one continuous vertically scrollable menu.
+- All original PDF pages remain visually unchanged.
+- Zoom applies to the complete menu and is limited to 50%-100%.
+- Scroll and zoom positions are remembered per menu tab.
+- The desktop indication calculator remains docked beside the menu.

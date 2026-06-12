@@ -1,6 +1,7 @@
-Ninh Binh Hilversum website v116
-- Indicatiepaneel staat op desktop naast de menukaart en overlapt deze niet
-- Menupagina wordt automatisch opnieuw passend berekend bij openen/sluiten indicatie
-- Zoom instelbaar van 50% tot 100% in stappen van 10%
-- Vergrootglas min/max knoppen worden automatisch uitgeschakeld op de grens
-- Mobiel behoudt een uitschuifbaar indicatiepaneel
+Ninh Binh Hilversum website v117
+- Elk menu wordt per tab als één lange, verticaal scrollbare kaart getoond
+- Alle originele PDF-pagina's blijven 1-op-1 behouden
+- Paginapijlen en miniaturen zijn verwijderd
+- Zoom 50%-100% geldt voor de volledige kaart
+- Zoom- en scrollpositie worden per menutab onthouden
+- Indicatiecalculator blijft op desktop naast de kaart staan zonder overlap
