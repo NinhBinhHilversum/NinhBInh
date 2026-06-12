@@ -1,0 +1,6 @@
+Ninh Binh Hilversum website v115
+- Original PDF menu layouts retained
+- Larger readable page-width viewer
+- Vertical scrolling for full-height pages
+- Magnifying-glass zoom + / - and percentage display
+- Price calculator opens as an overlay and no longer shrinks the menu

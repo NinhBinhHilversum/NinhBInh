@@ -1,26 +1,23 @@
 # Ninh Binh Hilversum Website
 
-Static, self-contained restaurant website for Ninh Binh Hilversum.
+Static restaurant website with the six supplied menu designs reproduced page-for-page inside the website.
 
-## Repository contents
+## Included menus
 
-- `index.html` — complete website, including embedded styling, scripts and images
-- `netlify.toml` — Netlify static-site configuration
-- `.nojekyll` — prevents GitHub Pages from applying Jekyll processing
-- `.gitignore` — ignores common local/editor files
+- Lunch NL
+- Lunch EN
+- Diner NL
+- Dinner EN
+- Borrelkaart
+- Drankenkaart
 
-## GitHub upload
+The original PDF layouts are rendered as high-quality WebP page images under `assets/menu-pages/`.
+The menu popup includes page navigation, thumbnails, large readable page-width viewing, magnifying-glass zoom controls with percentage display, and an optional overlay price calculator.
 
-1. Create a new empty GitHub repository.
-2. Upload all files from this folder to the repository root.
-3. Commit the files.
-4. For GitHub Pages, open **Settings → Pages** and deploy from the `main` branch/root.
-5. For Netlify, import the GitHub repository; no build command is required.
+## Deployment
 
-## Local preview
+No build command is required.
 
-Open `index.html` in a browser.
-
-## Notes
-
-The website is self-contained. Images, CSS and JavaScript are embedded in `index.html`, so no separate asset upload is required.
+- Netlify publish directory: `.`
+- GitHub Pages folder: `/ (root)`
+- Main file: `index.html`

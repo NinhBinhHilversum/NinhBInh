@@ -1,19 +1,16 @@
 # Deployment
 
-## GitHub Pages
-
-- Repository root must contain `index.html`.
-- Go to **Settings → Pages**.
-- Choose **Deploy from a branch**.
-- Select branch `main` and folder `/ (root)`.
-
 ## Netlify
 
-- Connect the GitHub repository.
-- Build command: leave empty.
+- Branch: `main`
+- Base directory: leave empty
+- Build command: leave empty
 - Publish directory: `.`
 
-## Vercel
+## GitHub Pages
 
-- Import the GitHub repository as a static project.
-- No framework preset or build command is required.
+- Settings -> Pages
+- Deploy from branch `main`
+- Folder `/ (root)`
+
+Upload all repository files and folders, including the complete `assets` directory.
